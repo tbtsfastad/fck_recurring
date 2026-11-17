@@ -7,11 +7,11 @@ plugins {
 }
 
 group = "com.github.tbtsfastad"
-version = "1.0.0"
+version = "1.0.1"
 
 android {
     namespace = "fck.and.recurring"
-    compileSdk = 37
+    compileSdk = 36
     defaultConfig {
         minSdk = 26
         consumerProguardFiles("consumer-rules.pro")

@@ -16,7 +16,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.tbtsfastad:fck_recurring:1.0.0")
+    implementation("com.github.tbtsfastad:fck_recurring:1.0.1")
 }
 ```
 
@@ -45,7 +45,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.tbtsfastad:fck_recurring:1.0.0")
+    implementation("com.github.tbtsfastad:fck_recurring:1.0.1")
 }
 ```
 
